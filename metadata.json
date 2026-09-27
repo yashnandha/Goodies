@@ -1,0 +1,7 @@
+{
+  "name": "Goodies",
+  "description": "A community platform to share, barter, exchange, or give away extra tech conference merchandise and developer swag.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
